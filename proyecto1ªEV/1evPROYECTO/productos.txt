@@ -1,0 +1,11 @@
+
+Nombre del producto: a Descripcion: a Precio: 2.0
+Nombre del producto: iphone x Descripcion: movil kk Precio: 1000.1
+Nombre del producto: aa Descripcion: aa Precio: 2.0
+Nombre del producto: aaa Descripcion: aa Precio: 2.0
+Nombre del producto: a Descripcion: a Precio: 2.0
+Nombre del producto: A Descripcion: A Precio: 2.0
+Nombre del producto: aaa Descripcion: aaa Precio: 21.0 Fecha: 2022-11-19T22:46:43.832 
+Nombre del producto: xiaomi 12 Descripcion: 256gb Precio: 705.0 Fecha: 2022-11-19T23:23:44.309
+Nombre del producto: dasd Descripcion: fds Precio: 2.0 Fecha: 2022-11-19T23:27:23.033
+Nombre del producto: xiaomi 12 Descripcion: 128gb Precio: 705.0 Fecha: 2022-11-19T23:30:49.696
